@@ -2,9 +2,9 @@
 Olá! Eu sou o Jonathas, mas não o da nova geração, senão não programava em COBOL. Este repositório foi criado para disponibilização do código produzido na Live da Coders Podcast no projeto Coders Academy, transmitida em 05/02/2021.
 
 # Organização do Projeto
-|_src - Códigos-fonte foram produzidos no [OpenCOBOL IDE](https://pypi.org/project/OpenCobolIDE/) e estão prontos para rodar =)
-|_bin - executáveis
-|_docs - Slides utilizados na apresentação
+- |_src - Códigos-fonte foram produzidos no [OpenCOBOL IDE](https://pypi.org/project/OpenCobolIDE/) e estão prontos para rodar =)
+- |_bin - executáveis
+- |_docs - Slides utilizados na apresentação
 
 ## Outras informações - aprendendo COBOL na faixa
 Existem várias formas de aprender a programar em COBOL e atualmente eu recomendo duas:
